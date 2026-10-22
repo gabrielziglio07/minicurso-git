@@ -9,3 +9,4 @@ Professor [Giliard Godoi](https://github.com/GiliardGodoi)
 
 ## Participantes
 
+[Gabriel de Araujo Ziglio](https://github.com/gabrielziglio07)
